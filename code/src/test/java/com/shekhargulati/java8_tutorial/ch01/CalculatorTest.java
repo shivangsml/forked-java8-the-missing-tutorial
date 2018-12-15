@@ -7,7 +7,7 @@ import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
 
 public class CalculatorTest {
-
+///
     Calculator calculator = Calculator.getInstance();
 
     @Test
